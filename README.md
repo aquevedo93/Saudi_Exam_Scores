@@ -1,6 +1,6 @@
 # Saudi Exam Scores
 
-Data scraped to be used to analyze the impact of a teacher subsidy program.
+Data scraped to be used to analyze the impact of a teacher subsidy program on student performance.
 
 ## Web Scraping 
 
